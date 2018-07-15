@@ -1,0 +1,10 @@
+{
+  "name": "poload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MisterNT",
+  "license": "MIT",
+  "dependencies": {
+    "pornsearch": "^2.4.2"
+  }
+}
